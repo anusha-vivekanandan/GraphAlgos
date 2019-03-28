@@ -1,0 +1,12 @@
+6 10 U
+Y Q 1
+Y C 2
+Q C 1
+Q D 3
+Q E 2
+C D 1
+C E 2
+D E 4
+D Z 3
+E Z 3
+Y
